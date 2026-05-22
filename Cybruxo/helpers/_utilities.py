@@ -7,7 +7,7 @@ import re
 
 from pyrogram import enums, types
 
-from anony import app
+from Cybruxo import app
 
 
 class Utilities:
