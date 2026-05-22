@@ -149,7 +149,7 @@ wheels = [
 ]
 
 [[package]]
-name = "anonxmusic"
+name = "cybruxobrain"
 version = "3.0.3"
 source = { virtual = "." }
 dependencies = [
