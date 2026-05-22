@@ -19,7 +19,7 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 </a>
 <br>
 
-<img src="https://github.com/Cybruxo/CybruxoBrain/blob/master/.github/anonx.jpg" width="720" height="auto">
+<img src="https://github.com/Cybruxo/CybruxoBrain/blob/master/.github/cybruxo.jpg" width="720" height="auto">
 
 CybruxoBrain lets you stream high-quality and low-latency audio and video playback into telegram group video chats.<br>
 Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability and easy deployment on Heroku, VPS, or Docker.
